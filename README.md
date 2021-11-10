@@ -12,7 +12,7 @@ Fb [dai re](https://fb.com/deiterada)
 
 ## template
 
-Demo [HERE](https://maidey.github.io/portfolio-template)
+Demo [HERE](https://maidey.github.io/portfolio-template/index.html)
 
 
 ### mobile
